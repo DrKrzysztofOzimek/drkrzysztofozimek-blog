@@ -6,6 +6,6 @@ This folder contains R code supporting the blog post:
 
 
 💻 Code files included:
-r_X.R
-r_X.py
+- r_X.R
+- r_X.py
 
