@@ -1,1 +1,24 @@
+# 📦 Calculating the Return on Investment in Currency X When Investing in Currency Y
 
+This folder contains R and Python code supporting the blog post on how to calculate the return on investment (ROI) in one currency when the investment is made in another.
+
+🔗 **Read the full article:**  
+[https://www.drkrzysztofozimek.com/marcenko-pastur-covariance-randomness-test/](https://www.drkrzysztofozimek.com/marcenko-pastur-covariance-randomness-test/)
+
+---
+
+## 💻 Code files included:
+
+- `r_X.R` – R script to compute returns adjusted for foreign exchange rate movements.
+- `r_X.py` – Python script with equivalent functionality for ROI in cross-currency investments.
+
+---
+
+## 🧠 Summary
+
+This code helps investors and financial analysts assess the actual return experienced in their home currency when returns are earned in a different one. It accounts for both asset performance and currency exchange rate changes — a critical aspect of global investing.
+
+---
+
+**Author:** [Dr Krzysztof Ozimek](https://www.drkrzysztofozimek.com)  
+**License:** MIT
