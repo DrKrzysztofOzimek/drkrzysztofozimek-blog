@@ -1,4 +1,4 @@
-# 📦 ETFs, Diversification, and the Myth of Risk Elimination — Idiosyncratic Risk Calculation
+# 📦 ETFs, Diversification, and the Myth of Risk Elimination
 
 This folder contains R and Python code supporting the blog post:
 **ETFs, Diversification, and the Myth of Risk Elimination**
