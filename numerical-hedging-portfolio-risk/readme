@@ -1,1 +1,16 @@
+📦 Numerical Hedging of Portfolio Risk via Approximated Derivatives
 
+This folder contains R and Python code supporting the blog post: Numerical Hedging of Portfolio Risk via Approximated Derivatives
+
+🔗 Read the full article:
+https://www.drkrzysztofozimek.com/numerical-hedging-portfolio-risk-approximated-derivatives/
+
+💻 Code files included:
+
+ hedging.py – Python script to calculate hedging positions (n and m) using numerical derivative approximations for portfolio risk factors.
+
+ hedging.R – R script providing equivalent functionality to compute and visualize hedging adjustments via Taylor series and central difference methods.
+
+Author: Dr Krzysztof Ozimek
+
+License: MIT
