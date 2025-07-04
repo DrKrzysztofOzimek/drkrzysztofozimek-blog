@@ -2,7 +2,7 @@
 
 This folder contains R code supporting the blog post:
 
-🔗 [Read the full article](https://www.drkrzysztofozimek.com/return-on-investment-in-foreign-currency/)
+🔗 [Read the full article] (https://www.drkrzysztofozimek.com/return-on-investment-in-foreign-currency/)
 
 
 💻 Code files included:
