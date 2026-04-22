@@ -1,3 +1,9 @@
+# =============================================================================
+# Author:  Krzysztof Ozimek, PRM  (c) 2025
+# License: Personal, non-commercial use only.  Redistribution or any
+#          commercial use requires prior written permission from the author.
+# =============================================================================
+
 mp_randomness_test <- function(data, B = 1000) {
   # ---------------------------------------------------------------------------
   # Marčenko–Pastur Simulation Test (Left-Tailed)

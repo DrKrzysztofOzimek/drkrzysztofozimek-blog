@@ -1,3 +1,12 @@
+# =============================================================================
+# Author:  Krzysztof Ozimek, PRM  (c) 2025
+# License: Personal, non-commercial use only.  Redistribution or any
+#          commercial use requires prior written permission from the author.
+# =============================================================================
+
+import numpy as np
+import pandas as pd
+
 def mp_randomness_test(data, B=1000):
     # ---------------------------------------------------------------------------
     # Marčenko–Pastur Simulation Test (Left-Tailed)
