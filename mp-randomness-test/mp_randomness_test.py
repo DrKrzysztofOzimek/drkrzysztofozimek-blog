@@ -1,5 +1,5 @@
 # =============================================================================
-# Author:  Krzysztof Ozimek, PRM  (c) 2025
+# Author:  Krzysztof Ozimek  (c) 2025
 # License: Personal, non-commercial use only.  Redistribution or any
 #          commercial use requires prior written permission from the author.
 # =============================================================================
